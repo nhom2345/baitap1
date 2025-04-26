@@ -5,6 +5,7 @@ using System.Linq;
 
 namespace QuanLyNhaHang
 {
+    /*vi */
     public class MonAn
     {
         public int MaMon { get; set; }
